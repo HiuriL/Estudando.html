@@ -1,0 +1,15 @@
+.bodystyles{ 
+background-color: rgb(255, 0, 0);
+
+}
+
+head{
+    background-color: aqua;
+}
+
+.divstyles{
+    height: 200px;
+    width: 100%;
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
